@@ -1,0 +1,12 @@
+2020-11-27T15:04:29+00:00 Bilos-PC#02 I: Start test sequence_arithmetic_tests:1:seq_add_test2.
+2020-11-27T15:04:29+00:00 Bilos-PC#02 I: Test sequence_arithmetic_tests:1:seq_add_test2 is successful.
+2020-11-27T15:04:29+00:00 Bilos-PC#02 I: End test sequence_arithmetic_tests:1:seq_add_test2.
+2020-11-27T15:04:29+00:00 Bilos-PC#02 I: Start test sequence_arithmetic_tests:5:seq_mult_test2.
+2020-11-27T15:04:29+00:00 Bilos-PC#02 I: Test sequence_arithmetic_tests:5:seq_mult_test2 is successful.
+2020-11-27T15:04:29+00:00 Bilos-PC#02 I: End test sequence_arithmetic_tests:5:seq_mult_test2.
+2020-11-27T15:04:29+00:00 Bilos-PC#02 I: Start test sequence_arithmetic_tests:8:seq_add_empty1.
+2020-11-27T15:04:30+00:00 Bilos-PC#02 I: 
+2020-11-27T15:04:30+00:00 Bilos-PC#02 I: law seq_add_empty1: 10000 relevant cases (10000 total)
+2020-11-27T15:04:30+00:00 Bilos-PC#02 I: 
+2020-11-27T15:04:30+00:00 Bilos-PC#02 I: Test sequence_arithmetic_tests:8:seq_add_empty1 is successful.
+2020-11-27T15:04:30+00:00 Bilos-PC#02 I: End test sequence_arithmetic_tests:8:seq_add_empty1.

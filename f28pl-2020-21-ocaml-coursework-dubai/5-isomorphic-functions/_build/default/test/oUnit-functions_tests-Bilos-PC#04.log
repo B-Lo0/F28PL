@@ -1,0 +1,6 @@
+2020-11-27T14:55:38+00:00 Bilos-PC#04 I: Start test functions_tests:3:curry_uncurry_prop.
+2020-11-27T14:55:38+00:00 Bilos-PC#04 I: 
+2020-11-27T14:55:38+00:00 Bilos-PC#04 I: law curry_uncurry_prop: 10000 relevant cases (10000 total)
+2020-11-27T14:55:38+00:00 Bilos-PC#04 I: 
+2020-11-27T14:55:38+00:00 Bilos-PC#04 I: Test functions_tests:3:curry_uncurry_prop is successful.
+2020-11-27T14:55:38+00:00 Bilos-PC#04 I: End test functions_tests:3:curry_uncurry_prop.

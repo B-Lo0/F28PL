@@ -1,0 +1,15 @@
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: Start test complex_number_tests:2:complex_mult_test1.
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: Test complex_number_tests:2:complex_mult_test1 is successful.
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: End test complex_number_tests:2:complex_mult_test1.
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: Start test complex_number_tests:7:complex_mult_commutative.
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: 
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: law complex_mult_commutative: 10000 relevant cases (10000 total)
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: 
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: Test complex_number_tests:7:complex_mult_commutative is successful.
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: End test complex_number_tests:7:complex_mult_commutative.
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: Start test complex_number_tests:11:complex_mult_zero.
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: 
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: law complex_mult_zero: 10000 relevant cases (10000 total)
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: 
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: Test complex_number_tests:11:complex_mult_zero is successful.
+2020-12-02T23:58:39+00:00 Bilos-PC#03 I: End test complex_number_tests:11:complex_mult_zero.
